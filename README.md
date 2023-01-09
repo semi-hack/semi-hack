@@ -1,4 +1,8 @@
-### Hi there 👋
+###    Hi there 👋 I'm Semi
+
+- 🌱 I’m currently learning php(work), Go
+
+- 💬 Ask me about **Go, Node, TypeScript, MongoDB...**
 
 <!--
 **semi-hack/semi-hack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
