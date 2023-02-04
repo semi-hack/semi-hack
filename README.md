@@ -1,6 +1,6 @@
 ###    Hi there 👋 I'm Semi
 
-- 🌱 I’m currently learning php(work), Go
+- 🌱 I’m currently learning php(work),
 
 - 💬 Ask me about **Go, Node, TypeScript, MongoDB...**
 
